@@ -1,0 +1,52 @@
+{
+  "baseChance": 0.40,
+  "checkpoints": [0.25, 0.5, 0.75, 1.0],
+  "maxPriceMultiplier": 30,
+  "displayOrder": ["giant", "color", "material"],
+  "mutations": [
+    {
+      "id": "color",
+      "name": "颜色变异",
+      "prefix": "",
+      "multiplier": 1.5,
+      "weight": 40,
+      "unlockLevel": 4,
+      "badge": "🌈",
+      "variants": [
+        { "id": "peach", "name": "桃霞", "color": "#f7a8c4" },
+        { "id": "orange", "name": "橙光", "color": "#ff9f43" },
+        { "id": "green", "name": "绿光", "color": "#5cd668" },
+        { "id": "blue", "name": "幽蓝", "color": "#5b8def" }
+      ]
+    },
+    {
+      "id": "material",
+      "name": "材质变异",
+      "prefix": "",
+      "multiplier": 2.5,
+      "weight": 30,
+      "unlockLevel": 5,
+      "badge": "💎",
+      "variants": [
+        { "id": "iron", "name": "铸铁", "color": "#707a7c" },
+        { "id": "ice", "name": "冰晶", "color": "#bfe8ff" },
+        { "id": "bronze", "name": "青铜", "color": "#b0783c" },
+        { "id": "amber", "name": "琥珀", "color": "#e8a13d" },
+        { "id": "brilliant", "name": "璀璨", "color": "#ffe066" },
+        { "id": "glaze", "name": "琉璃", "color": "#9b7ede" },
+        { "id": "pearl", "name": "明珠", "color": "#f2ead9" },
+        { "id": "jade", "name": "青玉", "color": "#2fa37a" }
+      ]
+    },
+    {
+      "id": "giant",
+      "name": "巨大化",
+      "prefix": "巨大",
+      "multiplier": 8.0,
+      "weight": 30,
+      "unlockLevel": 8,
+      "badge": "🧬",
+      "scale": 1.5
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "level": 1,
+    "requiredExp": 100,
+    "upgradeCost": 500,
+    "unlockedCrops": ["wheat", "carrot"],
+    "unlockedPlots": 6,
+    "unlockedFeatures": []
+  },
+  {
+    "level": 2,
+    "requiredExp": 250,
+    "upgradeCost": 1200,
+    "unlockedCrops": ["tomato"],
+    "unlockedPlots": 6,
+    "unlockedFeatures": []
+  },
+  {
+    "level": 3,
+    "requiredExp": 500,
+    "upgradeCost": 2500,
+    "unlockedCrops": ["strawberry"],
+    "unlockedPlots": 7,
+    "unlockedFeatures": []
+  },
+  {
+    "level": 4,
+    "requiredExp": 900,
+    "upgradeCost": 4800,
+    "unlockedCrops": ["pumpkin"],
+    "unlockedPlots": 7,
+    "unlockedFeatures": ["color_mutation"]
+  },
+  {
+    "level": 5,
+    "requiredExp": 1400,
+    "upgradeCost": 8500,
+    "unlockedCrops": ["corn"],
+    "unlockedPlots": 7,
+    "unlockedFeatures": ["material_mutation"]
+  },
+  {
+    "level": 6,
+    "requiredExp": 2200,
+    "upgradeCost": 14000,
+    "unlockedCrops": ["watermelon"],
+    "unlockedPlots": 8,
+    "unlockedFeatures": []
+  },
+  {
+    "level": 7,
+    "requiredExp": 3200,
+    "upgradeCost": 22000,
+    "unlockedCrops": ["grape"],
+    "unlockedPlots": 8,
+    "unlockedFeatures": []
+  },
+  {
+    "level": 8,
+    "requiredExp": 4800,
+    "upgradeCost": 34000,
+    "unlockedCrops": ["dragonfruit"],
+    "unlockedPlots": 9,
+    "unlockedFeatures": ["giant_mutation"]
+  },
+  {
+    "level": 9,
+    "requiredExp": 7500,
+    "upgradeCost": 52000,
+    "unlockedCrops": [],
+    "unlockedPlots": 9,
+    "unlockedFeatures": []
+  },
+  {
+    "level": 10,
+    "requiredExp": 12000,
+    "upgradeCost": 80000,
+    "unlockedCrops": ["starfruit"],
+    "unlockedPlots": 10,
+    "unlockedFeatures": []
+  }
+]

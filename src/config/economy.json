@@ -1,0 +1,19 @@
+{
+  "startingCoins": 600,
+  "waterGrowthSpeedup": 0.10,
+  "warehouseUnlimited": true,
+  "qualityWeights": {
+    "normal": 82,
+    "fine": 12,
+    "rare": 4,
+    "epic": 1.5,
+    "legendary": 0.5
+  },
+  "qualityMultiplier": {
+    "normal": 1.0,
+    "fine": 1.15,
+    "rare": 1.4,
+    "epic": 1.8,
+    "legendary": 2.5
+  }
+}
